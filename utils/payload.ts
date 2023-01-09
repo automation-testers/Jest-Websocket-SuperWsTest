@@ -19,11 +19,8 @@ module.exports = {
             return {
                 event: "subscribe", 
                 channel: "status", 
-                key: "deriv:tBTCF0:USTF0",
-                abc: "123", 
-                xyz: "456", 
-                pqr: "789", 
-                std: "101"
+                key: "deriv:tBTCF0:USTF0"
+                
             }
         } 
 }
